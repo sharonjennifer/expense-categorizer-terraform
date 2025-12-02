@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+terraform-key.json
+
+# Data files (too large for GitHub)
+*.csv
+archive.zip
+
+# Model files (optional - can be large)
+expense_classifier_model.pkl
+
+# Application generated files
+uploads/
+results/
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+
+# Google Cloud credentials
+*.json
