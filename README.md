@@ -205,30 +205,8 @@ terraform destroy
 
 Type `yes` when prompted.
 
-## Future Improvements
-
-- [ ] Add user authentication
-- [ ] Implement batch processing for large files
-- [ ] Deploy with Cloud Run for auto-scaling
-- [ ] Add data visualization dashboard
-- [ ] Implement CI/CD pipeline
-- [ ] Add model retraining capability
-- [ ] Support for multiple currencies
-- [ ] Mobile-responsive UI
-
-## Learning Outcomes
-
-- Infrastructure as Code with Terraform
-- ML model training and deployment
-- Flask web application development
-- GCP service integration
-- End-to-end MLOps workflow
-
 ## Author
 
 Sharon Jennifer  
-MS in Artificial Intelligence, Northeastern University
 
-## License
 
-This project is for educational purposes.
